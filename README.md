@@ -10,8 +10,8 @@
 ## Demarche à suivre quand on clone 
 
 - Sur le terminal faire "composer install"
-- Créer un fichier .enve.txt juste avant .enve.example
-- Copier/Coller tous ce qu'il y a sur .enve.exemple dans .enve
+- Créer un fichier .env.txt juste avant .enve.example
+- Copier/Coller tous ce qu'il y a sur .env.exemple dans .env
 - Dans le terminal "php artisan key:generate"
 - "Php artisan serve"
 - Si besoin installer la debug bar "compose require barryvdh/laravel-debugbar"
